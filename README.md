@@ -23,33 +23,35 @@
 
 ## 📂 Proyectos destacados
 
-### 🛍️ [Predicción de ventas semanales – Walmart](enlace-a-tu-repo)
-> Utilicé modelos de regresión (Random Forest) para predecir ventas por tienda.  
-> 🔹 **R² = 0.94**, **RMSE ≈ 139,359**  
-> 🔹 Enfoque en optimización de operaciones y cadena de suministro.
+### 🛢️ [Predicción de reservas petroleras – OilyGiant](https://github.com/cccfany/projects_portfolio/blob/main/Project_OilyGiant.ipynb)
+> Regresión lineal + bootstrapping para seleccionar pozos rentables y calcular beneficios esperados.  
+> 🔹 Selección de las mejores 200 ubicaciones por región  
+> 🔹 Evaluación del riesgo de pérdidas y ROI  
+> 🔹 Simulación de 10,000 escenarios para tomar decisiones de inversión
 
-### 🛢️ [Estimación de reservas petroleras – OilyGiant](enlace-a-tu-repo)
-> Selección de pozos con mayor margen de beneficio usando regresión lineal y bootstrapping.  
-> 🔹 Eliminación de regiones con alto riesgo de pérdidas  
-> 🔹 Evaluación del retorno sobre inversión con simulaciones
+### 📱 [Recomendación de planes de clientes – Megaline](https://github.com/cccfany/projects_portfolio/blob/main/Project_Megaline.ipynb)
+> Clasificación de clientes para recomendar entre planes Smart y Ultra según su comportamiento y datos demográficos.  
+> 🔹 Limpieza y codificación de variables categóricas  
+> 🔹 Modelos probados: Árbol de decisión, Random Forest, Logistic Regression  
+> 🔹 Optimización basada en recall y precisión
 
-### 📞 [Clasificación de clientes – Megaline](enlace-a-tu-repo)
-> Modelos de clasificación para recomendación de planes móviles y predicción de abandono de clientes.  
-> 🔹 Comparación de modelos: Random Forest, Logistic Regression, etc.  
-> 🔹 Alineación con métricas de negocio como precisión y recall
+### ⚙️ [Optimización de extracción de oro – Zyfra](https://github.com/cccfany/projects_portfolio/blob/main/Project_Zyfra.ipynb)
+> Regresión multivariable para predecir la cantidad de oro extraído del mineral, descartando parámetros no rentables.  
+> 🔹 Reducción de dimensiones y selección de variables  
+> 🔹 Identificación de etapas del proceso con mayor impacto en el rendimiento  
+> 🔹 Métrica: R² > 0.6 con validación cruzada
 
-### 📷 [Control de edad por visión por computadora – Good Seed](enlace-a-tu-repo)
-> Estimación de edad a partir de imágenes para prevenir la venta de alcohol a menores.  
-> 🔹 MAE ~10.13 años  
-> 🔹 Procesamiento de imágenes y entrenamiento de modelos convolucionales
+### 🚕 [Predicción de demanda de taxis – Sweet Lift Taxi](https://github.com/cccfany/projects_portfolio/blob/main/Project_Sweet_Lift_Taxi.ipynb)
+> Predicción de pedidos de taxi por hora usando datos temporales e históricos.  
+> 🔹 Modelos: Linear Regression, Random Forest, Gradient Boosting  
+> 🔹 Métrica objetivo: RMSE ≤ 48  
+> 🔹 Análisis de patrones semanales y horarios pico para mejorar la disponibilidad
 
----
-
-## 🚀 Aprendiendo ahora
-
-- Series de tiempo (Prophet, SARIMA)
-- Deep Learning con TensorFlow y PyTorch
-- Optimización de modelos y pipelines con MLflow
+### 👁️ [Estimación de edad por visión computacional – Good Seed](https://github.com/cccfany/projects_portfolio/blob/main/Project_Good_seed.ipynb) 
+> Modelo de deep learning para verificar edad a partir de fotos y prevenir venta de alcohol a menores.  
+> 🔹 Pipeline de procesamiento de imágenes y normalización  
+> 🔹 Red neuronal convolucional entrenada desde cero  
+> 🔹 Error medio absoluto (MAE): ~10.13 años
 
 ---
 
