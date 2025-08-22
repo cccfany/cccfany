@@ -15,9 +15,9 @@
 ## 🔧 Tecnologías que uso
 
 - **Lenguajes**: Python, SQL  
-- **Librerías**: pandas, scikit-learn, matplotlib, seaborn,  
-- **Modelos**: Clasificación, Regresión, Random Forest, Boosting, Redes Neuronales  
-- **Herramientas**: Jupyter, VS Code, Google Colab, Git
+- **Librerías**: pandas, NumPy scikit-learn, matplotlib, seaborn,  
+- **Modelos**: Clasificación, Regresión, Random Forest, Boosting, Redes Neuronales 
+- **Herramientas**: Jupyter, VS Code, Google Colab, Git, MS Office
 
 ---
 
