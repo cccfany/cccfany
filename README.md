@@ -23,13 +23,13 @@
 
 ## 📂 Proyectos destacados
 
-### 🛢️ [Predicción de reservas petroleras – OilyGiant](https://github.com/cccfany/projects_portfolio/blob/main/Project_OilyGiant.ipynb)
+### 🛢️ [Predicción de reservas petroleras – OilyGiant](https://github.com/cccfany/projects_portfolio/blob/main/OilyGiant.ipynb)
 > Regresión lineal + bootstrapping para seleccionar pozos rentables y calcular beneficios esperados.  
 > 🔹 Selección de las mejores 200 ubicaciones por región  
 > 🔹 Evaluación del riesgo de pérdidas y ROI  
 > 🔹 Simulación de 10,000 escenarios para tomar decisiones de inversión
 
-### 📱 [Recomendación de planes de clientes – Megaline](https://github.com/cccfany/projects_portfolio/blob/main/Project_Megaline.ipynb)
+### 📱 [Recomendación de planes de clientes – Megaline](https://github.com/cccfany/projects_portfolio/blob/main/Megaline.ipynb)
 > Clasificación de clientes para recomendar entre planes Smart y Ultra según su comportamiento y datos demográficos.  
 > 🔹 Limpieza y codificación de variables categóricas  
 > 🔹 Modelos probados: Árbol de decisión, Random Forest, Logistic Regression  
@@ -41,13 +41,13 @@
 > 🔹 Identificación de etapas del proceso con mayor impacto en el rendimiento  
 > 🔹 Métrica: R² > 0.6 con validación cruzada
 
-### 🚕 [Predicción de demanda de taxis – Sweet Lift Taxi](https://github.com/cccfany/projects_portfolio/blob/main/Project_Sweet_Lift_Taxi.ipynb)
+### 🚕 [Predicción de demanda de taxis – Sweet Lift Taxi](https://github.com/cccfany/projects_portfolio/blob/main/Sweet_Lift_Taxi.ipynb)
 > Predicción de pedidos de taxi por hora usando datos temporales e históricos.  
 > 🔹 Modelos: Linear Regression, Random Forest, Gradient Boosting  
 > 🔹 Métrica objetivo: RMSE ≤ 48  
 > 🔹 Análisis de patrones semanales y horarios pico para mejorar la disponibilidad
 
-### 👁️ [Estimación de edad por visión computacional – Good Seed](https://github.com/cccfany/projects_portfolio/blob/main/Project_Good_seed.ipynb) 
+### 👁️ [Estimación de edad por visión computacional – Good Seed](https://github.com/cccfany/projects_portfolio/blob/main/Good_seed.ipynb) 
 > Modelo de deep learning para verificar edad a partir de fotos y prevenir venta de alcohol a menores.  
 > 🔹 Pipeline de procesamiento de imágenes y normalización  
 > 🔹 Red neuronal convolucional entrenada desde cero  
