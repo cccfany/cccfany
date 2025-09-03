@@ -23,6 +23,11 @@
 
 ## 📂 Proyectos destacados
 
+### 🚨 [Detecté fraude en pagos en línea](https://github.com/cccfany/-Fraud_detection_in_online_payments)
+> 🔹 Vi un patrón: mucho fraude disperso, pero dos métodos mandan.
+> 
+> 🔹 Hoy sé dónde reforzar primero: TRANSFER (tasa más alta) y CASH_OUT (más casos).
+
 ### 🛢️ [Predicción de reservas petroleras – OilyGiant](https://github.com/cccfany/projects_portfolio/blob/main/OilyGiant.ipynb)
 > Regresión lineal + bootstrapping para seleccionar pozos rentables y calcular beneficios esperados.  
 > 🔹 Selección de las mejores 200 ubicaciones por región  
@@ -63,7 +68,7 @@
 ---
 
 ### ⚡ Fun fact:
-Soy una apasionada del aprendizaje continuo, el análisis crítico y los datos que cuentan historias.
+Me encanta el café.
 
 
 -->
