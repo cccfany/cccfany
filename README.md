@@ -24,9 +24,14 @@
 ## 📂 Proyectos destacados
 
 ### 🚨 [Detecté fraude en pagos en línea](https://github.com/cccfany/-Fraud_detection_in_online_payments)
-> 🔹 Vi un patrón: mucho fraude disperso, pero dos métodos mandan.
-> 
+> 🔹 Vi un patrón: mucho fraude disperso, pero dos métodos mandan.  
 > 🔹 Hoy sé dónde reforzar primero: TRANSFER (tasa más alta) y CASH_OUT (más casos).
+
+
+### 💡[Pronóstico de ventas semanal para planear mejor inventario y operaciones](https://github.com/cccfany/weekly_sales_forecast)
+> El problema de negocio:  
+> 🔹 ¿Cómo predecir con la mayor precisión posible las ventas semanales por tienda usando datos históricos y variables económicas externas, para optimizar cadena de suministro y operaciones en tienda?  
+> 🔹 La planeación de operaciones en retail depende de estimaciones confiables de la demanda. Una predicción inexacta provoca exceso de inventario (costos de almacenamiento y obsolescencia) o quiebres de stock (pérdida de ventas y lealtad).  
 
 ### 🛢️ [Predicción de reservas petroleras – OilyGiant](https://github.com/cccfany/projects_portfolio/blob/main/OilyGiant.ipynb)
 > Regresión lineal + bootstrapping para seleccionar pozos rentables y calcular beneficios esperados.  
