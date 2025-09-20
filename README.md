@@ -8,7 +8,7 @@
 🎓 **Química Farmacobióloga** con formación en método científico y estadística.  
 🔍 Actualmente me desempeño en proyectos de **Ciencia de Datos**, aplicando técnicas de machine learning, análisis de datos y visualización para resolver problemas de negocio en sectores como energía, banca, retail y transporte.
 
-💼 Con experiencia previa en atención a clientes, soporte administrativo y asesoría en seguridad social, combino habilidades de análisis técnico con enfoque en las necesidades del usuario y del negocio.
+💼 Con experiencia previa en atención a clientes, soporte administrativo y asesoría financiera, combino habilidades de análisis técnico con enfoque en las necesidades del usuario y del negocio.
 
 ---
 
@@ -33,31 +33,31 @@
 > 🔹 ¿Cómo predecir con la mayor precisión posible las ventas semanales por tienda usando datos históricos y variables económicas externas, para optimizar cadena de suministro y operaciones en tienda?  
 > 🔹 La planeación de operaciones en retail depende de estimaciones confiables de la demanda. Una predicción inexacta provoca exceso de inventario (costos de almacenamiento y obsolescencia) o quiebres de stock (pérdida de ventas y lealtad).  
 
-### 🛢️ [Predicción de reservas petroleras – OilyGiant](https://github.com/cccfany/projects_portfolio/blob/main/OilyGiant.ipynb)
+### 🛢️ [Predicción de reservas petroleras – OilyGiant](https://github.com/cccfany/oil_reserve_prediction)
 > Regresión lineal + bootstrapping para seleccionar pozos rentables y calcular beneficios esperados.  
 > 🔹 Selección de las mejores 200 ubicaciones por región  
 > 🔹 Evaluación del riesgo de pérdidas y ROI  
 > 🔹 Simulación de 10,000 escenarios para tomar decisiones de inversión
 
-### 📱 [Recomendación de planes de clientes – Megaline](https://github.com/cccfany/projects_portfolio/blob/main/Megaline.ipynb)
+### 📱 [Recomendación de planes de clientes – Megaline](https://github.com/cccfany/customer_plan_recommendation)
 > Clasificación de clientes para recomendar entre planes Smart y Ultra según su comportamiento y datos demográficos.  
 > 🔹 Limpieza y codificación de variables categóricas  
 > 🔹 Modelos probados: Árbol de decisión, Random Forest, Logistic Regression  
 > 🔹 Optimización basada en recall y precisión
 
-### ⚙️ [Optimización de extracción de oro – Zyfra](https://github.com/cccfany/projects_portfolio/blob/main/Project_Zyfra.ipynb)
+### ⚙️ [Optimización de extracción de oro – Zyfra](https://github.com/cccfany/gold_extraction_optimization)
 > Regresión multivariable para predecir la cantidad de oro extraído del mineral, descartando parámetros no rentables.  
 > 🔹 Reducción de dimensiones y selección de variables  
 > 🔹 Identificación de etapas del proceso con mayor impacto en el rendimiento  
 > 🔹 Métrica: R² > 0.6 con validación cruzada
 
-### 🚕 [Predicción de demanda de taxis – Sweet Lift Taxi](https://github.com/cccfany/projects_portfolio/blob/main/Sweet_Lift_Taxi.ipynb)
+### 🚕 [Predicción de demanda de taxis – Sweet Lift Taxi](https://github.com/cccfany/taxi_demand_prediction)
 > Predicción de pedidos de taxi por hora usando datos temporales e históricos.  
 > 🔹 Modelos: Linear Regression, Random Forest, Gradient Boosting  
 > 🔹 Métrica objetivo: RMSE ≤ 48  
 > 🔹 Análisis de patrones semanales y horarios pico para mejorar la disponibilidad
 
-### 👁️ [Estimación de edad por visión computacional – Good Seed](https://github.com/cccfany/projects_portfolio/blob/main/Good_seed.ipynb) 
+### 👁️ [Estimación de edad por visión computacional – Good Seed](https://github.com/cccfany/age_estimation_with_computer_vision) 
 > Modelo de deep learning para verificar edad a partir de fotos y prevenir venta de alcohol a menores.  
 > 🔹 Pipeline de procesamiento de imágenes y normalización  
 > 🔹 Red neuronal convolucional entrenada desde cero  
