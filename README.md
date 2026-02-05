@@ -17,7 +17,7 @@
 - **Lenguajes**: Python, SQL  
 - **Librerías**: pandas, NumPy, scikit-learn, matplotlib, seaborn,  
 - **Modelos**: Clasificación, Regresión, Random Forest, Boosting, Redes Neuronales 
-- **Herramientas**: Jupyter, VS Code, Google Colab, Git, MS Office
+- **Herramientas**: Jupyter, VS Code, Google Colab, Git, MS Office, Power BI
 
 ---
 
