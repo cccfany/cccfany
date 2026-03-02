@@ -65,15 +65,11 @@ Actualmente me desempeño en proyectos de **Ciencia de Datos**, aplicando técni
 
 ---
 
-## 🤝 ¿Quieres conectar?
+##  Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cccfany/)  
-📧 **Correo**: fn.ai14@gmail.com
+📧 **Email**: fany.castro@gmail.com
 
 ---
 
-### ⚡ Fun fact:
-Me encanta el café.
 
-
--->
