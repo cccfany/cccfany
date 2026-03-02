@@ -1,14 +1,14 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **cccfany/cccfany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# 👋 ¡Hola! Soy Fany.
+#  ¡Hola! Soy Fany.
 
-🎓 **Química Farmacobióloga** con formación en método científico y estadística.  
-🔍 Actualmente me desempeño en proyectos de **Ciencia de Datos**, aplicando técnicas de machine learning, análisis de datos y visualización para resolver problemas de negocio en sectores como energía, banca, retail y transporte.
+**BI Analyst** con formación en método científico y estadística.  
+Actualmente me desempeño en proyectos de **Ciencia de Datos**, aplicando técnicas de machine learning, análisis de datos y visualización para resolver problemas de negocio en sectores como energía, banca, retail y transporte.
 
-💼 Con experiencia previa en atención a clientes, soporte administrativo y asesoría financiera, combino habilidades de análisis técnico con enfoque en las necesidades del usuario y del negocio.
+💼 Experiencia construyendo dashboards ejecutivos en Power BI, modelado dimensional, ETL con Power Query, y KPIs con DAX, integrando datos desde SQL y Excel. Además tengo experiencia previa en atención a clientes, soporte administrativo y asesoría financiera. 
 
 ---
 
@@ -17,7 +17,7 @@
 - **Lenguajes**: Python, SQL  
 - **Librerías**: pandas, NumPy, scikit-learn, matplotlib, seaborn,  
 - **Modelos**: Clasificación, Regresión, Random Forest, Boosting, Redes Neuronales 
-- **Herramientas**: Jupyter, VS Code, Google Colab, Git, MS Office, Power BI
+- **Herramientas**: Jupyter, VS Code, Google Colab, Git, MS Office, Power BI, Excel
 
 ---
 
